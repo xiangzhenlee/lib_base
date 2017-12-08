@@ -13,7 +13,7 @@ import com.yushan.lib_base.utils.Utils;
 /**
  * <p>Activity基类 </p>
  *
- * @author 2016/12/2 17:33
+ * @author yushan
  * @version V1.0.0
  * @name BaseActivity
  */

@@ -11,7 +11,7 @@ import java.util.Stack;
 /**
  * <p></p>
  *
- * @author 张华洋 2017/9/26 22:26
+ * @author yushan
  * @version V1.1
  * @name ViewManager
  */

@@ -18,7 +18,7 @@ import com.yushan.lib_base.R;
  * 继承于ActionBarBaseActivity的Activity都将默认带有ActionBar，并且只能使用AppTheme主题；
  * 只有那些ActionBar只带有Title和返回按钮的Activity方可继承
  *
- * @author 张华洋 2017/3/7 18:36
+ * @author yushan
  * @version V1.2.0
  * @name BaseActionBarActivity
  */
