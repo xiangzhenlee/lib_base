@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">lib_base</string>
+
+    <!-- 【APP最新改版】 BEGIN -->
+    <string name="wanbu_compete">团队</string>
+    <string name="wanbu_message">消息</string>
+    <string name="wanbu_discovery">发现</string>
+    <string name="wanbu_myself">个人</string>
+    <string name="wanbu_home_sport">运动</string>
+    <string name="wanbu_home_device">设备</string>
+    <string name="wanbu_home_club">俱乐部</string>
 </resources>
